@@ -1,4 +1,6 @@
-## Hi there 👋
+#이진수를 소개합니다.
+<hr>
+안녕하세요 저는 2025 로봇 응용 SW 전문가 양성 과정을 진행하고 있는 이진수라고 합니다.
 
 <!--
 **jjkkhh123/jjkkhh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
