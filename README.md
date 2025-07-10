@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lee Jin Su</h1>
+<h1 align="center">안녕하세요 👋, 이진수입니다.</h1>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
-- 🌱 I’m currently learning **2025 로봇 응용 SW전문가 양성 교육025 로봇 응용 SW전문가 양성 교육**
+- 🌱 저는 현재 **2025 로봇 응용 SW전문가 양성 교육025 로봇 응용 SW전문가 양성 교육**을 받고 있습니다.
 
-- 👨‍💻 All of my projects are available at [https://jjkkhh123.github.io/profile/](https://jjkkhh123.github.io/profile/)
+- 👨‍💻 저의 모든 프로젝트는 이곳에서 확인할 수 있습니다. [https://jjkkhh123.github.io/profile/](https://jjkkhh123.github.io/profile/)
 
 - 💬 Ask me about **https://jjkkhh123.github.io/profile/**
 
-- 📫 How to reach me **jjkkhh456@naver.com**
+- 📫 이메일 **jjkkhh456@naver.com**
 
-- 📄 Know about my experiences [https://jjkkhh123.github.io/profile/#experience](https://jjkkhh123.github.io/profile/#experience)
+- 📄 저의 경험에 대해 알아보려면 -> [https://jjkkhh123.github.io/profile/#experience](https://jjkkhh123.github.io/profile/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
