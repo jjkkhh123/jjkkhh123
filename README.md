@@ -26,7 +26,7 @@
 
 ```
 🎓 나사렛대학교 IT융합학부 (GPA 4.0/4.5, 전공 4.3/4.5)
-📚 2025 로봇 응용 SW전문가 양성 교육 수료 중
+📚 바이오헬스 올인원 테크 이노베이터 과정 수료 중
 🔬 관심 분야: Computer Vision, LLM Fine-tuning, Game Development
 🎮 꿈: AI와 게임의 융합 연구
 ```
