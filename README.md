@@ -12,9 +12,6 @@
   <a href="mailto:jjkkhh456@naver.com">
     <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.youtube.com/@jannaya">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
   <a href="https://instagram.com/01wlstn_0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
